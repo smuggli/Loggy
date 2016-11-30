@@ -1,0 +1,24 @@
+{
+  "name": "smuggli/logger",
+  "description": "Simple logger",
+  "keywords": ["log", "logging", "psr-3"],
+  "homepage": "http://github.com/Smuggli/logger",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stephan Muggli",
+      "email": "stephan.muggli@googlemail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0",
+    "psr/log": "^1.0.1"
+  },
+  "autoload": {
+    "psr-4": {"Smuggli\\Loggy\\": "src/Logger"}
+  },
+  "provide": {
+    "psr/log-implementation": "1.0.0"
+  }
+}
