@@ -4,7 +4,6 @@
   "keywords": ["log", "logging", "psr-3"],
   "homepage": "https://github.com/smuggli/Loggy",
   "type": "library",
-  "license": "MIT",
   "authors": [
     {
       "name": "Stephan Muggli",
