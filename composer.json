@@ -1,8 +1,8 @@
 {
-  "name": "smuggli/logger",
+  "name": "smuggli/loggy",
   "description": "Simple logger",
   "keywords": ["log", "logging", "psr-3"],
-  "homepage": "http://github.com/Smuggli/logger",
+  "homepage": "https://github.com/smuggli/Loggy",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -17,8 +17,5 @@
   },
   "autoload": {
     "psr-4": {"Smuggli\\Loggy\\": "src/Logger"}
-  },
-  "provide": {
-    "psr/log-implementation": "1.0.0"
   }
 }
