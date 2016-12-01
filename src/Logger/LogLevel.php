@@ -4,7 +4,7 @@ declare(strict_types = 1);
 namespace Smuggli\Loggy;
 
 /**
- * Class Logger
+ * Class LogLevel
  *
  * @package Smuggli\Loggy
  *
