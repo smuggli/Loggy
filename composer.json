@@ -15,6 +15,6 @@
     "psr/log": "^1.0.1"
   },
   "autoload": {
-    "psr-4": {"Smuggli\\Loggy\\": "src/Logger"}
+    "psr-4": {"Smuggli\\Loggy\\": "src/Loggy"}
   }
 }
